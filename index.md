@@ -14,7 +14,7 @@ Explore the following sections to get started and maximize Frontlify for your bu
 # Getting Started with Frontlify
 
 ## Step 1: Sign Up
-Create an account on Frontlify.
+Create an account on Frontlify(https://frontlify.app/).
 
 ## Step 2: Create Feedback Page
 Build a mobile-friendly feedback page with ratings and comments.
